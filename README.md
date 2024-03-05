@@ -1,4 +1,1 @@
-### Hi Webbers
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Korradoinganamorte&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Korradoinganamorte&layout=compact)
+<h1 align="center">Hi Webbers and Dear HR <img height="24" src="https://github.com/KorradoInganamorte/icons/blob/main/Heart.svg"/><h3 align="center">Frontend Developer<h3/><h1/>
